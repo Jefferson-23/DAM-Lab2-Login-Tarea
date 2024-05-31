@@ -15,19 +15,16 @@ Este proyecto es una aplicación simple de inicio de sesión (login) desarrollad
 
    ```bash
    git clone https://github.com/Jefferson-23/DAM-Lab2-Login-Tarea.git
+   
+## Instalar Dependencias:
 
-Instalar Dependencias:
+**Ve al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias:**
+   ```bash
+   npm install
 
-Ve al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias:
-bash
-Copy code
-npm install
-Ejecutar en un Emulador:
+## Ejecutar en un Emulador:
 
-Asegúrate de tener configurado un emulador en tu máquina.
-Luego, ejecuta:
-bash
-Copy code
-npm run android  # Para emuladores Android
-npm run ios      # Para emuladores iOS (requiere macOS y Xcode instalado)
-
+**Asegúrate de tener configurado un emulador en tu máquina.
+Luego, ejecuta:**
+ ```bash
+   npm start android  # Para emuladores Android
