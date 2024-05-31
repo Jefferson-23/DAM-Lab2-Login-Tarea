@@ -28,5 +28,6 @@ Este proyecto es una aplicación simple de inicio de sesión (login) desarrollad
 Luego, ejecuta:**
 
  ```bash
-   npm start android  # Para emuladores Android
+   npm start
    ```
+# Para iniciar el projecto
