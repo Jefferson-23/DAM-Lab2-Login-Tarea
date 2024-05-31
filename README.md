@@ -18,16 +18,15 @@ Este proyecto es una aplicación simple de inicio de sesión (login) desarrollad
    ```
 ## Instalar Dependencias:
 
-**Ve al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias:**
+2. **Ve al directorio del proyecto y ejecuta el siguiente comando para instalar las dependencias:**
    ```bash
    npm install
    ```
 ## Ejecutar en un Emulador:
 
-**Asegúrate de tener configurado un emulador en tu máquina.
+3. **Asegúrate de tener configurado un emulador en tu máquina.
 Luego, ejecuta:**
-
+- Para iniciar el projecto:
  ```bash
    npm start
    ```
-# Para iniciar el projecto
